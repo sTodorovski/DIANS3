@@ -1,0 +1,104 @@
+  #header {
+    width: 100%;
+    height: 130px;
+    background-color: rgb(38, 7, 100);
+  }
+
+  #bf {
+    font-family: "Bauhaus 93";
+    font-size: 50px;
+  }
+
+  .linija {
+    font-size: 30px;
+  }
+
+  h1, h2 {
+    display: inline-block;
+    margin-left: 33px;
+    margin-right: 33px;
+    margin-top: 28px;
+    color: white;
+    font-family: "Century Gothic";
+    font-size: 20px;
+  }
+
+  #zname {
+    width: 60px;
+    height: 25px;
+    background-image: url('../resources/MKD.png');
+    display: inline-block;
+  }
+
+  #arka {
+    width: 100%;
+    height: 400px;
+    background-image: url('../resources/Arka.jpg');
+  }
+
+  #posleden {
+    width: 100%;
+    height: 250px;
+    background-color: rgb(217, 217, 217);
+    float: left;
+  }
+
+  #ponuda1 {
+    width: 350px;
+    height: 150px;
+    background-color: white;
+    margin-left: 150px;
+    margin-top: 50px;
+    float: left;
+    font-family: "Century Gothic";
+    font-size: 20px;
+  }
+
+  #ponuda1 p {
+    margin-left: 210px;
+  }
+
+  #ponuda2 p {
+    margin-left: 195px;
+  }
+
+  #ponuda1 > #deals {
+    margin-left: 230px;
+  }
+
+  #ponuda2 > #deals2 {
+    margin-left: 230px;
+  }
+
+  #ponuda2 > #booknow {
+    margin-left: 210px;
+  }
+
+  #ponuda2 {
+    width: 350px;
+    height: 150px;
+    background-color: white;
+    float: left;
+    margin-left: 400px;
+    margin-top: 50px;
+    font-family: "Century Gothic";
+    font-size: 20px;
+  }
+
+  #slika1 {
+    width: 150px;
+    height: 99px;
+    margin-left: 30px;
+    margin-top: 30px;
+    background-image: url('../resources/SKOPJE_HOTEL.png');
+    float: left;
+  }
+
+  #slika2 {
+    width: 150px;
+    height: 112px;
+    margin-left: 30px;
+    margin-top: 20px;
+    background-image: url('../resources/SKOPJE_HOTEL_2.jpg');
+    float: left;
+  }
